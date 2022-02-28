@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly proposed for asserting and securing the right of the subjects to the freedom of trade, until they are excluded from it by act of Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92278</idno>
+            <idno type="STC">Wing R566</idno>
+            <idno type="STC">ESTC R229651</idno>
+            <idno type="EEBO-CITATION">99895336</idno>
+            <idno type="PROQUEST">99895336</idno>
+            <idno type="VID">152703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92278)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152703)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2317:5; 2412:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly proposed for asserting and securing the right of the subjects to the freedom of trade, until they are excluded from it by act of Parliament</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Trade regulation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  East Indies --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:152703:1" rendition="simple:additions"/>
+            <head>
+               <hi>Reaſons humbly propoſed for Aſſerting and Securing the Right of the Subjects to the Freedom of Trade, until they are Excluded from it by</hi> Act of Parliament.</head>
+            <p>THE Conſideration of the Settlement of the <hi>East-India</hi> Trade having taken up ſo great a part of the Two laſt Seſſions of Parliament, without bringing it to Perfection, by reaſon of the intervening of other Publick Affairs, as well as by the great Oppoſition and Delays uſed by the <hi>Eaſt-India</hi> Company; and each Seſſions having ended in an Addreſs to His Majeſty; The Firſt, to Diſſolve their Charters, and to Eſtabliſh a New Company to preſerve the Trade; the Laſt, only to Diſſolve their Charters: which being ſince become Void by Act of Parliament, by their making Default in Payment of the firſt Quarterly Payment of the Tax charged on their Joint-Stock, at the Time limited by the Act, the ſaid Company is ſince Confirmed by New Charters, Dated the <hi>7th October,</hi> and <hi>11th November</hi> laſt.</p>
+            <p>It's Humbly Conceiv'd,
+<q>That the Aſſerting the Right of the Subjects to the Freedom of Trade, until they are Excluded from it by Act of Parliament, is a Matter highly Neceſſary at this Time.</q>
+            </p>
+            <p n="1">I. Becauſe the Omiſſion of it may be conſtrued, An admitting that the Crown can Exclude ſome Subjects from Trade, and Grant it to others, without an Act of Parliament.</p>
+            <p n="2">II. Becauſe the Conſequences of Allowing and Admitting ſuch a Power, may be Dangerous and Fatal to this Kingdom.</p>
+            <p n="3">III. Becauſe the Company have Seized the Ships and Goods of ſome of their Fellow-Subjects for Trading into the <hi>Eaſt-Indies,</hi> and have Proſecuted others with Malicious and Vexatious Suits, in Actions of 100000 <hi>l.</hi> and 20000 <hi>l.</hi> though by Law they might Trade thither.</p>
+            <p n="4">IV. Becauſe they have ſo lately Aſſerted in their Petition of the <hi>21th</hi> of <hi>October</hi> laſt, That the Sole Trade to the <hi>Eaſt-Indies</hi> is Granted to them by Charter; and that the Trading of others thither, is contrary to the known Laws of this Kingdom. Whereupon an Order of Council paſs'd, to Stop the Ship <hi>Redbridge,</hi> on the bare Allegation in that Petition, That they had notice She was Bound to the <hi>Eaſt-Indies.</hi>
+            </p>
+            <p n="5">V. Becauſe they did procure the Stop of the Ship <hi>Edward,</hi> alias <hi>Seymour,</hi> and the <hi>Henry,</hi> in <hi>March</hi> laſt; which Ships were both Cleared at the <hi>Cuſtom-Houſe</hi> and <hi>Graveſend,</hi> and had an Order of Council, and Protection for their Seamen; as is now conſtantly practiſed by reaſon of the War: the <hi>Edward,</hi> alias <hi>Seymour,</hi> being fully diſpatcht with all her Cargo on board, Sayling to the <hi>Buoy in the Nore,</hi> was Stopt in an unheard of manner, by Powder and Ball, ſeveral of the Men of War firing at Her 6 or 7 times with Shot; which had like to have brought her Maſt by the Board: And though ſight and Copy of the Order by which She was thus ſtopt was demanded of the Commanders of the Men of War, yet neither could be obtained. And both Ships were ſtopt without any Order of Council, although there was an Order of Council for their Proceeding; and they were continued under Reſtraint about Three Weeks time; which at that Seaſon of the Year might prove the Loſs of their Voyages.</p>
+            <p n="6">VI. Becauſe their former Grants which are Reſtored and Confirmed by their two laſt Charters, contain the Grant of ſeveral Powers, which, it's humbly conceived, are dangerous and deſtructive to the Rights, Liberties, Lives, and Eſtates of their Fellow-Subjects; and which they have formerly put in Exe<g ref="char:EOLhyphen"/>cution, and are likely to do again: being no ways diſcouraged, by any Puniſhment inflicted on them for their former Unjuſtifiable Actions.</p>
+            <p>Some of which Powers granted in their former Charters, are as follow.</p>
+            <p>
+               <hi>Power to Seize Ships and Goods for Trading thither, the Ships and Goods to be Forfeited; and beſides the Tranſgreſſors to incurr the King's Indignation, and Im<g ref="char:EOLhyphen"/>priſonment during the King's pleaſure, and ſuch other Puniſhments as the King ſhould think fit;</hi> and not to be <hi>releaſed, 'till they had given Bond to the Company, neuer more to Trade to the</hi> Eaſt-Indies.<hi>—Power to enter into the Ship or Houſe of any one, Trading within the limits of their Charters, and to Seize his Goods without Account.—Power to Seize the Perſons of any</hi> Engliſh-men <hi>found in the</hi> Eaſt-Indies, <hi>and to ſend them home for</hi> England.<hi>—Power to Iudge the King's Subjects in</hi> India, <hi>by their Governour and Council, in all Cauſes, Civil and Criminal, and to execute Iudgment upon them.—Power to Execute Martial Law.—Power to Muſter Souldiers, to make Peace or War, to recover Satisfaction for Injuries by Force of Arms.—Power to Licenſe any Perſons, even Aliens and In<g ref="char:EOLhyphen"/>fidels, to Trade; though the King's Subjects are reſtrained from it.</hi>
+            </p>
+            <p>Whether ſuch Powers can be granted by Charter; or whether it be fit to truſt thoſe with but a colour to Execute ſuch Powers, who have already ſo much Oppreſt their Fellow-Subjects by pretence of the ſame Powers, is well worthy Conſideration. For thereby the Lives, Liberties, and Eſtates of their Fellow-Subjects who may frequent the <hi>East-Indies</hi> in their Lawful Trading, may again be Expoſed to the ſame unjuſt Violence and Oppreſſion which they have formerly ſuſfered from them.</p>
+            <p n="7">VII. Becauſe theſe two laſt Charters contain ſuch Myſterious Grants, as are without Precedent or Example; granting them that in Fact, which could not be juſtifiably granted in Words. For though they only grant them all ſuch and the like Lawful Powers, <hi>&amp;c.—</hi>which they had or might lawfully hold, uſe, or enjoy, <hi>&amp;c.</hi> by virtue of their former Charters, as fully to all intents and purpoſes, as if thoſe Powers and Charters were at large recited: yet thoſe Powers not being any ways diſtinguiſhed, which of them are Lawful, and whicch Unlawful, it is left to the Company, their Factors, Servants, and Mariners, to judge, which are, and which are not Lawful: And by what they have already done, it's eaſie to gueſs how ready they will be to Execute any other Powers contained in their former Charters, which they themſelves think to be for their Advantage: And if hereafter in any other Reign, there ſhould be ſuch Judges as there have been in ſome former Reigns, who would call any thing Lawful, which the Crown would have to be ſo, then the Powers in their former Charters may all be lawfully uſed.</p>
+            <p>VIII. Becauſe they will be encouraged by colour of their former Grants being ſo myſteriouſly reſtored, to oppreſs and ruin their Fellow-Subjects: For they having a Common Purſe, to juſtifie and defend their Actions, the endeavouring to obtain relief againſt them by Law, will be rather an Encreaſe of the Injury, than a Remedy thereof; ſo that they are in effect left without any Redreſs.</p>
+            <q>The undoubted Right which all the Subjects of <hi>England</hi> have freely to Trade to all Parts not Prohibited by Act of Parliament, may plainly appear by the following Particulars.</q>
+            <p>
+               <hi>1ſt,</hi> By the ſeveral Statutes which have been made to declare and aſſert that Right to the Freedom of Trade, which the Subjects had before thoſe Laws were made.</p>
+            <p>
+               <hi>2dly,</hi> By the Opinion of the Judges, and the ſeveral Judgments which have been given in <hi>Weſtminſter-Hall,</hi> notwithſtanding the Excluſive Charters of t<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>East-India</hi> and <hi>African</hi> Company have been pleaded.</p>
+            <p>
+               <hi>3dly,</hi> By His Majeſty's Meſſage ſent the Houſe of Commons the laſt Seſſions, in Anſwer to their Addreſs in Relation to the <hi>Eaſt-India</hi> Company; wherein His Majeſty recommended to them the preparing a Bill in Order to paſs into an Act of Parliament to Settle that Trade; expreſly declaring, that the Concurrence of the Parliament was neceſſary to make a compleat and uſeful Settlement thereof.</p>
+            <p>
+               <hi>4ly,</hi> By the declining to have this Matter brought to a legal Determination, as was propoſed before the Privy Council, by thoſe who oppoſed the Paſſing the new <hi>Charter.</hi>
+            </p>
+            <p>
+               <hi>5ly,</hi> By the ſeveral Petitions delivered the Honourable Houſe of Commons by the Company themſelves, and others by their Procurement, praying to have this Company Eſtabliſh'd by Act of Parliament; which plainly ſhews, that they themſelves acknowledge the Subjects have a Right to that Trade, till they are excluded from it by Act of Parliament.</p>
+            <p>And it ſeems a great Hardſhip, and an Addition to the Misfortunes which have already and daily do attend Traders in this War, by the Loſſes and Diſappointments which they have and do ſuſtain in their Trade, to have the War made a Pretence to deprive them of the Right which they have to Trade to the <hi>Eaſt-Indies,</hi> from which they could not be hindered, if it were now a time of Peace; and to have that great and profitable Trade given only to ſome of Their Majeſties Subjects, to which all the Subjects of <hi>England</hi> have an equal Right by Law, and from which they cannot legally be Excluded by any Charter whatever.</p>
+            <p>It might rather have been ſuppoſed, that the Loſſes and Diſappointments which have attended all Traders in this War, ſhould have been an occaſion of Indulging them in their lawful Trades, rather than be made uſe of, as now it is, to hinder them of their Right to this profitable Trade, and of the moſt probable means of retrieving the Loſſes they have and do daily ſuſtain by the War: And it might well have been concluded, that the want of Money which the Publick Revenue has felt by the Interruption of Trade, and the Difficulties which appear to find out Ways and Means to raiſe Money to carry on the War, would have been Reaſons ſufficient to encourage all Merchants to Trade, rather than to hinder them from their lawful Trading. For if thoſe Merchants who Petitioned in <hi>Auguſt</hi> laſt for Protection for Four Hundred Seamen, to go to the <hi>Eaſt-Indies</hi> in five Ships this Seaſon, could have obtained the ſame, they would have paid Sixty thouſand Pounds for Cuſtoms at the return of thoſe Ships, in leſs than Two Years time, and have furniſh'd Their Majeſties with Five Hundred Tuns of Salt-Petre, at 60 <hi>l. per</hi> Tun; which by the Company's hindering others from trading, and not trading themſelves, is now ſold at 160 <hi>l. per</hi> Tun; and they would alſo have furniſh'd the Nation with Callicoes and other <hi>Eaſt-India</hi> Goods much Cheaper than they are now from <hi>Holland,</hi> or than they will be by the Company, if they have the Monopoly of that Trade; who though they had no Charter, had Protection granted them for Twelve Hundred Seamen, at the ſame time when others were refuſed: and Yet in the laſt two Years time, they have not paid above Twenty or Twenty one thouſand Pounds for Cuſtoms, and of that great part for Aliens, and other Mens Goods brought home in their Ships.</p>
+            <p>Theſe Merchants who Petitioned for Protection for Four Hundred Seamen to go to the <hi>Eaſt-Indies,</hi> were ſo well aſſured of their Right to the Trade, that they not only offered to bring it to a Tryal at Law laſt Term, but publickly declared to all the World, that if it had been time of Peace, and that they could have been ſecure of their Seamens not being preſſed from them, they would have ſitted out Ships for the <hi>Eaſt-Indies</hi> barefaced, and ſtood upon the Law of the Land for their Juſtification.</p>
+            <q>
+               <hi>All which is humbly ſubmitted to Conſideration; and it's humbly hoped the continuance of theſe Miſchiefs will be prevented, by aſſerting the Right of all the Subjects of</hi> England <hi>to the Freedom of Trade, until they are excluded from it by Act of Parliament; and that ſome effectual Proviſion may be made to ſecure the Freedom of Trade in time of War to all Their Majeſties Subjects indifferently, that ſo ſome may not be interrupted and ſtopt in the Exerciſe of it, whilſt others are permitted freely to enjoy it.</hi>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>
